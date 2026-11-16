@@ -15,3 +15,4 @@ IT student from the Czech Republic focused on **C# (.NET)**, **game programming*
 - **Languages:** C#, SQL
 - **Frameworks & Engines:** .NET 10, xUnit, Godot, Unity
 - **Tools:** Visual Studio 2022, Git, GitHub
+
