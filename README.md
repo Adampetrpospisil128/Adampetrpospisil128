@@ -31,3 +31,12 @@
 - 🏆 Preparing for the **Microsoft Foundational C#** certification
 - 🎮 Developing gameplay mechanics and modular C# systems in **Godot** and **Unity**
 - 🧪 Building algorithmic projects and backend services backed by automated **xUnit** tests
+
+**Core Engineering Practices:** Clean Architecture • Object-Oriented Design (SOLID) • Automated Unit Testing (`xUnit`) • Custom Physics & Algorithms
+
+---
+
+### 📫 Connect with Me
+
+- **Email:** defeneder1@gmail.com
+- **LinkedIn:** www.linkedin.com/in/adam-pospisil-dev
