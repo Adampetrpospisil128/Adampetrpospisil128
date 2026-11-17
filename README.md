@@ -10,6 +10,7 @@ IT student from the Czech Republic focused on **C# (.NET)**, **game programming*
 #### Featured Projects
 - **[Console Tetris](https://github.com/Adampetrpospisil128/Tetris)** – Pure C# (.NET 10) console implementation featuring a 7-bag randomizer, 90° matrix rotation with wall kicks, ghost piece projection, and JSON high-score persistence.
 - **[Minecraft Server Log Analyzer](https://github.com/Adampetrpospisil128/ServerLogAnalyzer)** – Memory-efficient CLI log parser for Purpur, Paper, and Spigot servers using `StreamReader`, source-generated `Regex`, `LINQ` analytics, and JSON export.
+- * [ApexClimb](https://github.com/Adampetrpospisil128/ApexClimb) — Precision 2D vertical platformer built from scratch in C# and `Raylib-cs` featuring Clean Architecture, custom AABB physics, coyote time, 8-directional dash, and automated `xUnit` tests.
 
 #### Tech Stack
 - **Languages:** C#, SQL
